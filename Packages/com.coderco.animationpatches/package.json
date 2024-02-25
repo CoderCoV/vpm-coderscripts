@@ -1,0 +1,16 @@
+{
+  "name": "com.coderco.animationpatches",
+  "displayName": "CoderScripts - AnimationPatches",
+  "version": "0.0.1",
+  "description": "Describe this Package",
+  "gitDependencies": {},
+  "vpmDependencies": {},
+  "author": {
+    "name": "CoderCo",
+    "email": "codercov@gmail.com",
+    "url": "https://coderco.space"
+  },
+  "legacyFolders": {},
+  "legacyFiles": {},
+  "localPath": "C:\\ProjectListing\\vpm-coderscripts\\Packages\\com.coderco.animationpatches"
+}
